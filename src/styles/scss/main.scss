@@ -1,7 +1,11 @@
 $h3-bg-color: red;
 
 h3 {
-    background-color: $h3-bg-color;
+  background-color: $h3-bg-color;
+  color: white;
 }
 
-h3 {background-color: $h3-bg-color;user-select: none;}
+h3 {
+  background-color: $h3-bg-color;
+  user-select: none;
+}
